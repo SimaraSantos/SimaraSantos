@@ -1,32 +1,42 @@
+# Olá! Bem-vinda ao meu perfil! Me chamo Simara 👋
 
-<!--
-👋 Olá, eu sou a Simara!
+Sou desenvolvedora em evolução, focada em construir interfaces modernas, limpas e eficientes. Atualmente estou me aprofundando no ecossistema do React e na arquitetura de estados globais.
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (FIAP)
-💻 Em transição de carreira para a área de Tecnologia
-🚀 Focada em desenvolvimento de software
+---
 
-🧠 Sobre mim
+## 🛠️ Minhas Tecnologias & Ferramentas
 
-Atualmente estou no 2º semestre de ADS e desenvolvendo minhas habilidades em programação, com foco em Java, lógica de programação e Programação Orientada a Objetos.
+### 💻 Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-Tenho me dedicado à prática constante por meio de projetos acadêmicos, buscando evoluir tecnicamente e construir uma base sólida na área de desenvolvimento.
+### ⚡ Ambiente de Desenvolvimento & Ferramentas
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-💻 Tecnologias em aprendizado
+---
 
-Java
+## 🧠 No que estou focada no momento?
 
-Lógica de Programação
+* ⚛️ **React Hooks:** Dominando o uso de estados com `useState` e efeitos colaterais com `useEffect`.
+* 🌐 **Gerenciamento de Estado Global:** Criando contextos dinâmicos e desacoplados com a **Context API** (`createContext`, `Provider` e `useContext`) para evitar problemas de *Prop Drilling* (como alternadores de tema Dark/Light).
+* 🏗️ **Componentização Clean:** Desenvolvendo componentes reutilizáveis, tipados e modulares usando **TypeScript**.
 
-Programação Orientada a Objetos (POO)
+---
 
-Git e GitHub
+## 📊 Estatísticas do Perfil
 
-📂 Projetos em destaque
+<p align="left">
+  <img src="https://komarev.com/ghvc/?username=SimaraSantos&color=f43f5e&style=for-the-badge&label=VISITANTES" alt="Contador de Visitantes" />
+</p>
 
-🔹 Em constante construção — confira meus repositórios para acompanhar minha evolução como desenvolvedora.
+---
 
-📫 Contato
+## 🤝 Conecte-se comigo:
 
-🔗 LinkedIn: https://www.linkedin.com/in/simara-santos-silva-bb5732247
--->
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/simara-santos-silva-bb5732247/)
