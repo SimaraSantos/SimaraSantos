@@ -3,8 +3,9 @@
 Sou desenvolvedora em evolução, focada em construir interfaces modernas, limpas e eficientes. Atualmente estou me aprofundando no ecossistema do React e na arquitetura de estados globais.dedico-me à construção de aplicações modernas e escaláveis, unindo uma sólida bagagem em planejamento e gestão à engenharia de software.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VISITANTES_AO_PERFIL-¡OBRIGADA_POR_CONECTAR!-ff007f?style=for-the-badge&logo=github" alt="Contador de Visitantes" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SimaraSantos&show_icons=true&theme=rose&locale=pt-br" alt="Estatísticas do GitHub" />
 </p>
+
 
 * 🗺️ Sou de **Espírito Santo - Brasil**.
 * 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **FIAP**.
@@ -44,7 +45,7 @@ Sou desenvolvedora em evolução, focada em construir interfaces modernas, limpa
 ## 📊 Estatísticas do Perfil
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VISITANTES_AO_PERFIL-¡OBRIGADA_POR_CONECTAR!-ff007f?style=for-the-badge&logo=github" alt="Contador de Visitantes" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SimaraSantos&show_icons=true&theme=rose&locale=pt-br" alt="Estatísticas do GitHub" />
 </p>
 
 ---
