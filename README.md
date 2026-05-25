@@ -2,9 +2,6 @@
 
 Sou desenvolvedora em evolução, focada em construir interfaces modernas, limpas e eficientes. Atualmente estou me aprofundando no ecossistema do React e na arquitetura de estados globais.dedico-me à construção de aplicações modernas e escaláveis, unindo uma sólida bagagem em planejamento e gestão à engenharia de software.
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/SimaraSantos/count.svg?box_color=ff007f&text_color=ffffff&label=VISITANTES&label_color=ff007f" alt="Contador de Visitantes" />
-</p>
 
 * 🗺️ Sou de **Espírito Santo - Brasil**.
 * 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **FIAP**.
@@ -42,10 +39,6 @@ Sou desenvolvedora em evolução, focada em construir interfaces modernas, limpa
 ---
 
 ## 📊 Estatísticas do Perfil
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/SimaraSantos/count.svg?box_color=ff007f&text_color=ffffff&label=VISITANTES&label_color=ff007f" alt="Contador de Visitantes" />
-</p>
 
 ---
 
