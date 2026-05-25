@@ -2,8 +2,11 @@
 
 Sou desenvolvedora em evolução, focada em construir interfaces modernas, limpas e eficientes. Atualmente estou me aprofundando no ecossistema do React e na arquitetura de estados globais.dedico-me à construção de aplicações modernas e escaláveis, unindo uma sólida bagagem em planejamento e gestão à engenharia de software.
 
+<h3 align="center">
+  💗 VISITANTES AO PERFIL 💗
+</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SimaraSantos&show_icons=true&theme=rose&locale=pt-br" alt="Estatísticas do GitHub" />
+  ✨ <code>[ Contador ativo via painel de Insights ]</code> ✨
 </p>
 
 
@@ -44,8 +47,11 @@ Sou desenvolvedora em evolução, focada em construir interfaces modernas, limpa
 
 ## 📊 Estatísticas do Perfil
 
+<h3 align="center">
+  💗 VISITANTES AO PERFIL 💗
+</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SimaraSantos&show_icons=true&theme=rose&locale=pt-br" alt="Estatísticas do GitHub" />
+  ✨ <code>[ Contador ativo via painel de Insights ]</code> ✨
 </p>
 
 ---
