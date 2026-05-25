@@ -1,7 +1,20 @@
 # Olá! Bem-vindo ao meu perfil! Me chamo Simara 👋
 
-Sou desenvolvedora em evolução, focada em construir interfaces modernas, limpas e eficientes. Atualmente estou me aprofundando no ecossistema do React e na arquitetura de estados globais.
+Sou desenvolvedora em evolução, focada em construir interfaces modernas, limpas e eficientes. Atualmente estou me aprofundando no ecossistema do React e na arquitetura de estados globais.dedico-me à construção de aplicações modernas e escaláveis, unindo uma sólida bagagem em planejamento e gestão à engenharia de software.
 
+<p align="center">
+  <img src="https://komarev.com/ghvc/?username=SimaraSantos&color=f43f5eacc&style=flat-square&label=VISITANTES" alt="Contador de Visitantes" />
+</p>
+
+
+* 🗺️ Sou de **Espírito Santo - Brasil**.
+* 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **FIAP**.
+* 🏫 Possuo formação consolidada na área de **Educação** (Pedagogia e Mestrado), trazendo forte bagagem em gestão, planejamento e resolução de problemas para a tecnologia.
+* 🚀 Participando ativamente de comunidades de tecnologia, tendo concluído programas como a **Imersão Front-End da Alura**.
+* 🌍 Fluente em **Português** e com certificação de proficiência em **Italiano (B1)**.
+* ✉️ Como me encontrar: [seu.email@gmail.com](mailto:seu.email@gmail.com)
+* 📲 Você também pode me encontrar no meu [LinkedIn](https://linkedin.com/in/SEU_LINKEDIN_AQUI).
+  
 ---
 
 ## 🛠️ Minhas Tecnologias & Ferramentas
