@@ -1,4 +1,4 @@
-# Olá! Bem-vinda ao meu perfil! Me chamo Simara 👋
+# Olá! Bem-vindo ao meu perfil! Me chamo Simara 👋
 
 Sou desenvolvedora em evolução, focada em construir interfaces modernas, limpas e eficientes. Atualmente estou me aprofundando no ecossistema do React e na arquitetura de estados globais.
 
