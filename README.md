@@ -12,8 +12,8 @@ Sou desenvolvedora em evolução, focada em construir interfaces modernas, limpa
 * 🏫 Possuo formação consolidada na área de **Educação** (Pedagogia e Mestrado), trazendo forte bagagem em gestão, planejamento e resolução de problemas para a tecnologia.
 * 🚀 Participando ativamente de comunidades de tecnologia, tendo concluído programas como a **Imersão Front-End da Alura**.
 * 🌍 Fluente em **Português** e com certificação de proficiência em **Italiano (B1)**.
-* ✉️ Como me encontrar: [seu.email@gmail.com](mailto:seu.email@gmail.com)
-* 📲 Você também pode me encontrar no meu [LinkedIn](https://linkedin.com/in/SEU_LINKEDIN_AQUI).
+* ✉️ Como me encontrar: [simaraufes88@gmail.com](mailto:simaraufes88@gmailcom)
+* 📲 Você também pode me encontrar no meu [LinkedIn](https://www.linkedin.com/in/simara-santos-silva-bb5732247/).
   
 ---
 
