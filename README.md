@@ -3,8 +3,7 @@
 Sou desenvolvedora em evolução, focada em construir interfaces modernas, limpas e eficientes. Atualmente estou me aprofundando no ecossistema do React e na arquitetura de estados globais.dedico-me à construção de aplicações modernas e escaláveis, unindo uma sólida bagagem em planejamento e gestão à engenharia de software.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Transição%20de%20Carreira-f43f5e?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Estudos-React%20%26%20TypeScript-007acc?style=for-the-badge" alt="Estudos" />
+  <img src="https://api.countapi.xyz/hit/SimaraSantos/visits?edge_flat=true&style=flat-square&label=VISITANTES&color=f43f5e" alt="Contador de Visitantes" />
 </p>
 
 
@@ -46,10 +45,8 @@ Sou desenvolvedora em evolução, focada em construir interfaces modernas, limpa
 ## 📊 Estatísticas do Perfil
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Transição%20de%20Carreira-f43f5e?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Estudos-React%20%26%20TypeScript-007acc?style=for-the-badge" alt="Estudos" />
+  <img src="https://api.countapi.xyz/hit/SimaraSantos/visits?edge_flat=true&style=flat-square&label=VISITANTES&color=f43f5e" alt="Contador de Visitantes" />
 </p>
-
 ---
 
 ## 🤝 Conecte-se comigo:
