@@ -3,9 +3,9 @@
 Sou desenvolvedora em evolução, focada em construir interfaces modernas, limpas e eficientes. Atualmente estou me aprofundando no ecossistema do React e na arquitetura de estados globais.dedico-me à construção de aplicações modernas e escaláveis, unindo uma sólida bagagem em planejamento e gestão à engenharia de software.
 
 <p align="center">
-  <img src="https://api.countapi.xyz/hit/SimaraSantos/visits?edge_flat=true&style=flat-square&label=VISITANTES&color=f43f5e" alt="Contador de Visitantes" />
+  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source" />
+  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FSimaraSantos" alt="Hits" />
 </p>
-
 
 * 🗺️ Sou de **Espírito Santo - Brasil**.
 * 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **FIAP**.
@@ -45,7 +45,8 @@ Sou desenvolvedora em evolução, focada em construir interfaces modernas, limpa
 ## 📊 Estatísticas do Perfil
 
 <p align="center">
-  <img src="https://api.countapi.xyz/hit/SimaraSantos/visits?edge_flat=true&style=flat-square&label=VISITANTES&color=f43f5e" alt="Contador de Visitantes" />
+  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source" />
+  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FSimaraSantos" alt="Hits" />
 </p>
 ---
 
