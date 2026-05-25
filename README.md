@@ -3,7 +3,7 @@
 Sou desenvolvedora em evolução, focada em construir interfaces modernas, limpas e eficientes. Atualmente estou me aprofundando no ecossistema do React e na arquitetura de estados globais.dedico-me à construção de aplicações modernas e escaláveis, unindo uma sólida bagagem em planejamento e gestão à engenharia de software.
 
 <p align="center">
-  <img src="https://komarev.com/ghvc/?username=SimaraSantos&color=f43f5eacc&style=flat-square&label=VISITANTES" alt="Contador de Visitantes" />
+  <img src="https://komarev.com/ghvc/?username=SimaraSantos&color=f43f5e&style=flat-square&label=VISITANTES" alt="Contador de Visitantes" />
 </p>
 
 
