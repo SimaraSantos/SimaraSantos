@@ -10,7 +10,7 @@ Sou desenvolvedora em evolução, focada em construir interfaces modernas, limpa
 * 🌍 Fluente em **Português** e com certificação de proficiência em **Italiano (B1)**.
 * ✉️ Como me encontrar: [simaraufes88@gmail.com](mailto:simaraufes88@gmailcom)
 * 📲 Você também pode me encontrar no meu [LinkedIn](https://www.linkedin.com/in/simara-santos-silva-bb5732247/).
-*  <p align="left">
+   <p align="left">
   <a href="https://simarasantos.github.io/meu-portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Conheça_Meu_Portfólio-🚀-8A2BE2?style=for-the-badge&logo=github" alt="Portfólio">
   </a>
