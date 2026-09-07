@@ -45,8 +45,8 @@ Sou desenvolvedora em evolução, focada em construir interfaces modernas, limpa
 
 ## 📊 Estatísticas do Perfil
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SimaraSantos&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SimaraSantos&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=SimaraSantos&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SimaraSantos&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
 </p>
 
 ---
